@@ -1,0 +1,18 @@
+<svg width="1323" height="412" viewBox="0 0 1323 412" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1323" height="412" fill="#1E1E1E"/>
+<rect width="1323" height="412" fill="white"/>
+<text opacity="0.25" transform="matrix(0 -1 1 0 1284 343)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="24" letter-spacing="0.1em"><tspan x="42.6172" y="23.2273">LOADING BAY</tspan></text>
+<text opacity="0.25" transform="matrix(0 -1 1 0 42 343)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="24" letter-spacing="0.1em"><tspan x="85.6953" y="23.2273">OFFICE</tspan></text>
+<text transform="translate(1107 11)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="24" letter-spacing="0.1em"><tspan x="36.4906" y="23.2273">PHASE 05</tspan></text>
+<text transform="translate(795 11)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="24" letter-spacing="0.1em"><tspan x="54.5922" y="23.2273">PHASE 04</tspan></text>
+<text transform="translate(559 11)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="24" letter-spacing="0.1em"><tspan x="51.6508" y="23.2273">PHASE 03</tspan></text>
+<text transform="translate(322 11)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="24" letter-spacing="0.1em"><tspan x="52.5258" y="23.2273">PHASE 02</tspan></text>
+<text transform="translate(25 11)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="24" letter-spacing="0.1em"><tspan x="45.2133" y="23.2273">PHASE 01</tspan></text>
+<path d="M1274 376V45H1319V376H1274Z" stroke="black"/>
+<path d="M1273 45H1037V376H1273V45Z" stroke="black"/>
+<path d="M797 376V45H1036V376H797Z" stroke="black"/>
+<path d="M560.5 375.5V45H796V375.5H560.5Z" stroke="black"/>
+<path d="M321.5 376V44.5H559.5V376H321.5Z" stroke="black"/>
+<path d="M94 376V44H320.5V376H94Z" stroke="black"/>
+<path d="M93 44H22V375H93V44Z" stroke="black"/>
+</svg>
